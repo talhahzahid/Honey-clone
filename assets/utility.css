@@ -12,9 +12,18 @@
 .justify-between{
     justify-content: space-between;
 }
-justify-center{
+.justify-center{
     justify-content: center;
 }
-align-center{
+.align-center{
     align-items: center;
+}
+.flex-wrap{
+    flex-wrap: wrap-reverse;
+}
+.center{
+    text-align: center;
+}
+.mt4{
+    margin-top: 40px;
 }
